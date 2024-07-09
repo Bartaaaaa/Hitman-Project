@@ -3,8 +3,7 @@
 # **Projet IA02**
 
   
-Bartlomiej GRZADZIEL
-Ines ABBACHE
+Bartlomiej GRZADZIEL & Ines ABBACHE
 
 
 Le projet IA02 consiste en la modélisation et la résolution d'un problème de planification à l'aide de deux techniques différentes. La phase 1 utilise une approche SAT (satisfaisabilité booléenne) pour modéliser un environnement où un agent, le "Hitman", explore une carte avec diverses entités et objets, tout en respectant des règles de présence et d'orientation. En phase 2, une approche STRIPS est employée pour la planification des actions du Hitman, en intégrant des prédicats et des fluentes pour modéliser les mouvements, interactions et objectifs de l'agent, avec l'utilisation d'un algorithme de recherche A* pour optimiser la résolution.  
